@@ -9,3 +9,7 @@
 |   8-11  	|             พิชญุตม์            	|   ธรรมธัช  	|                                                        	|
 |  12-13  	|              ภวัต             	| จรรยวรรธน์ 	|                                                        	|
 |    14   	|         ทุกคนพูดพร้อมกัน         	|     -     	|                   พูดพร้อมกันว่า ขอบคุณครับ                  	|
+
+## ห้องสนทนา
+
+<iframe src="https://github.com/newthingsofficial/science/discussions" width="100%" height="500" style="border:1.5px solid black;"></iframe>
