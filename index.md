@@ -12,4 +12,4 @@
 
 ## ห้องสนทนา
 
-<iframe src="https://github.com/newthingsofficial/science/discussions" width="100%" height="500" style="border:1.5px solid black;"></iframe>
+**[เข้าสู่ห้องสนทนา](https://github.com/newthingsofficial/science/discussions)**
